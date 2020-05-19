@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/smooth-background/static/css/main.87c40e49.chunk.css",
+    "main.js": "/smooth-background/static/js/main.197243aa.chunk.js",
+    "main.js.map": "/smooth-background/static/js/main.197243aa.chunk.js.map",
+    "runtime-main.js": "/smooth-background/static/js/runtime-main.0906d5f7.js",
+    "runtime-main.js.map": "/smooth-background/static/js/runtime-main.0906d5f7.js.map",
+    "static/js/2.b159a717.chunk.js": "/smooth-background/static/js/2.b159a717.chunk.js",
+    "static/js/2.b159a717.chunk.js.map": "/smooth-background/static/js/2.b159a717.chunk.js.map",
+    "index.html": "/smooth-background/index.html",
+    "precache-manifest.4b2e3eed1ed176e91ff0c89ab57b2f19.js": "/smooth-background/precache-manifest.4b2e3eed1ed176e91ff0c89ab57b2f19.js",
+    "service-worker.js": "/smooth-background/service-worker.js",
+    "static/css/main.87c40e49.chunk.css.map": "/smooth-background/static/css/main.87c40e49.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0906d5f7.js",
+    "static/js/2.b159a717.chunk.js",
+    "static/css/main.87c40e49.chunk.css",
+    "static/js/main.197243aa.chunk.js"
+  ]
+}
