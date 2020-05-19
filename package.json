@@ -1,7 +1,7 @@
 {
   "name": "hamburger-menu",
   "version": "0.1.0",
-  "homepage": "https://github.com/cv",
+  "homepage": "https://github.com/smooth-background",
   "private": true,
   "dependencies": {
     "gsap": "^3.0.1",
