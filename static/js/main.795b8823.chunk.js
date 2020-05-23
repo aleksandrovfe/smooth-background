@@ -1,2 +1,0 @@
-(this["webpackJsonphamburger-menu"]=this["webpackJsonphamburger-menu"]||[]).push([[0],{11:function(e,n,t){e.exports=t(22)},16:function(e,n,t){},22:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),c=t(7),u=t.n(c);t(16);var m=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("div",{className:"img"}))},s=t(10);u.a.render(r.a.createElement(s.a,null,r.a.createElement(m,null)),document.getElementById("root"))}},[[11,1,2]]]);
-//# sourceMappingURL=main.795b8823.chunk.js.map
